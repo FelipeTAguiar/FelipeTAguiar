@@ -20,3 +20,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipetaguiar&show_icons=true&theme=dark&hide_border=true)
 
+
+🎨 **UI/UX Designer & Front-End Developer** 
